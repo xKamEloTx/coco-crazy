@@ -1,2 +1,2 @@
-#Coco Crazy
+# Coco Crazy
 Помощник для игры - Coco Crazy
